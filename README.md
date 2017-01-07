@@ -4,7 +4,15 @@
 
 ## 練習項目
 >>vue-router
-v-if, v-show, methods
+v-model, v-test, v-if, v-show, methods, computed
+安裝vue-devtools
+先npm i vue-devtools --save-dev
+再去
+https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
+下載chrome套件
+最後將
+build/webpack.dev.conf.js裡的
+process.env換成'process.env': {NODE_ENV: '"production"'}
 
 ### Build Setup
 
