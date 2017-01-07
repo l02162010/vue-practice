@@ -2,8 +2,9 @@
 
 > 練習vue 華氏轉攝氏
 
-## 有vue-router v-if,v-show,methods
-
+## 練習項目
+>>vue-router
+v-if, v-show, methods
 
 ### Build Setup
 
