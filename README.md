@@ -1,8 +1,11 @@
 # practict-vue
 
-> practice all vue
+> 練習vue 華氏轉攝氏
 
-## Build Setup
+## 有vue-router v-if,v-show,methods
+
+
+### Build Setup
 
 ``` bash
 # install dependencies
