@@ -3,7 +3,9 @@
 > 練習vue 華氏轉攝氏
 
 ## 練習項目
->>vue-router
+
+``` bash
+vue-router
 v-model, v-test, v-if, v-show, methods, computed
 安裝vue-devtools
 先npm i vue-devtools --save-dev
@@ -13,6 +15,7 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanh
 最後將
 build/webpack.dev.conf.js裡的
 process.env換成'process.env': {NODE_ENV: '"production"'}
+```
 
 ### Build Setup
 
