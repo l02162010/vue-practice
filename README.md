@@ -1,4 +1,4 @@
-# practict-vue
+# practice-vue
 
 > 練習vue 華氏轉攝氏
 
